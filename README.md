@@ -70,7 +70,7 @@ Page 2: Line graph, Table
 
 ### Insights and Conclusions 
 
-- Vaccination coverage for all 3 vaccines(Pneumococcal, Tetanus, Zoster(Shingles)) has generally increased from 2008 to 2023.
+- Vaccination coverage for all 3 vaccines(Pneumococcal, Tetanus, Zoster(Shingles)) has generally increased from 2008 to 2023
   
 - Trend in vaccination coverage over the years is relatively similar across geography, race/ethnicity and age group; Notable drop from 2019 to 2020 but subsequently increased
     
