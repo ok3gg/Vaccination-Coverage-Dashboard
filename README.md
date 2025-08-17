@@ -54,18 +54,18 @@ Features/Visuals: Line graph, Filed map, Filter/Slicer, Hierarchical drill-down,
 Page 1: Line Graph, Filled Map
 
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/618d124d-b2f9-40c1-bb73-68912a3c7546" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/618d124d-b2f9-40c1-bb73-68912a3c7546" />
 
 
 Hierarchical drill-down available for Line Graph and Map; can also hover over regions on the map to view Average Estimate:
 
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/fd4548a1-c386-4c86-9157-fe95bb96e01d" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fd4548a1-c386-4c86-9157-fe95bb96e01d" />
 
 Page 2: Line graph, Table
 
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a6e96097-a6d3-4c2b-83ea-062c35466e7d" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a6e96097-a6d3-4c2b-83ea-062c35466e7d" />
 
 
 ### Insights and Conclusions 
