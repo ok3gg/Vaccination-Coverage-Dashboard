@@ -18,7 +18,7 @@ Tools Used: Pandas(Python library), Jupyter Notebook IDE, Tableau
 
 ### 1. Mild Data Cleaning in Pandas 
 - Removed rows where Estimate data was not collected
-- changing of data types
+- Changing of data types
 
 ### 2. Data Wrangling:  Querying and Manipulation with Pandas 
 
