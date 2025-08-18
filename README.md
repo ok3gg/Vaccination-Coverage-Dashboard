@@ -13,16 +13,14 @@ Tools Used: Pandas(Python library), Jupyter Notebook IDE, Tableau
 ### Before Starting: Background Information
 
 - 'NR' or '*' in Estimate column means that data was not collected. 
-- The dataset is pre-processed, requiring no additional data cleaning before analysis
-
-Brief look-through of dataset in Excel:
-
-- Removed FIPS column
-- Used Filter to confirm that there are no errorneous values in each column
 
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/c7a1551a-8123-472d-a882-d487be7af475" />
 
-### 1. Data Wrangling:  Querying and Manipulation with Pandas 
+### 1. Mild Data Cleaning in Pandas 
+- Removed rows where Estimate data was not collected
+- changing of data types
+
+### 2. Data Wrangling:  Querying and Manipulation with Pandas 
 
 Used Pandas in Jupyter Notebook IDE to obtain the various tables:
 
@@ -45,7 +43,7 @@ Used Pandas in Jupyter Notebook IDE to obtain the various tables:
 (Full code and comments in vaccination_coverage.ipynb)
 
 
-### 2. Building Dashboard with Tableau 
+### 3. Building Dashboard with Tableau 
 
 File: Vaccination_Coverage_Dashboard.twb
 
